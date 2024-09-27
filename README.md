@@ -49,7 +49,7 @@ Users run applications and give commands through shell.
 
 - ***mkdir*** makes a new directory
 
-- * : All filenames
+- \* : All filenames
 - g* : All filenames that begin with the character “gˮ
 - b*.txt : All filenames that begins with the character “bˮ and end with the characters “.txtˮ
 - Data??? : Any filename that begins with the characters “Dataˮ followed by exactly 3 more characters
