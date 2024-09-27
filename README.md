@@ -16,16 +16,13 @@ Users run applications and give commands through shell.
 - Relatively slow
 - Manual labors required for repetitive tasks
 
-### Shell command: pwd
+### Shell command: pwd,cd,ls
 
-***pwd*** shows the current path in a hierarchical directory
+- pwd shows the current path in a hierarchical directory
 
----
-### Shell command: cd & ls
-  
-***cd*** changes directory
+- cd  changes directory
 
-***ls*** lists files and directories.Li
+- ls lists files and directories
 
 #### Arguments
 
