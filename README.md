@@ -6,15 +6,16 @@
 - A ***shell*** is a interface that allows users to communicate with kernel.  
 Users run applications and give commands through shell.
 
-### CLI(Command Line Interface) vs GUI(Graphic User Interface)
-|  | CLI | GUI |
-| ----- | ----- | -----|
-| Should remeber commands | O | X |
-| Mostly used | Keyboards | Mouse |
-| Speed | Fast | Slow |
-| Work method | automate tasks | manual labor |
+### CLI(Command Line Interface) 
+-Have to remember commands
+-Relative fast
+-Scripts enable automation and records
 
----
+###GUI(Graphic User Interface)
+-Easy to use and Intuitive
+-Relatively slow
+-Manual labors required for repetitive tasks
+
 ### Shell command: pwd
 
 ***pwd*** shows the current path in a hierarchical directory
