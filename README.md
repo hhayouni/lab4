@@ -7,14 +7,14 @@
 Users run applications and give commands through shell.
 
 ### CLI(Command Line Interface) 
--Have to remember commands
--Relative fast
--Scripts enable automation and records
+- Have to remember commands
+- Relative fast
+- Scripts enable automation and records
 
 ### GUI(Graphic User Interface)
--Easy to use and Intuitive
--Relatively slow
--Manual labors required for repetitive tasks
+- Easy to use and Intuitive
+- Relatively slow
+- Manual labors required for repetitive tasks
 
 ### Shell command: pwd
 
