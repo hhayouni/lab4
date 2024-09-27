@@ -18,11 +18,11 @@ Users run applications and give commands through shell.
 
 ### Shell command: pwd,cd,ls
 
-- pwd shows the current path in a hierarchical directory
+- ***pwd*** shows the current path in a hierarchical directory
 
-- cd  changes directory
+- ***cd***  changes directory
 
-- ls lists files and directories
+- ***ls*** lists files and directories
 
 #### Arguments
 
@@ -35,34 +35,25 @@ Users run applications and give commands through shell.
 ./[directory name]      relative path
 ../[directory name]     relative path
 ```
----
 ### options
-- l show detailed information(long format)
-- lh same as above, but size in units
----
+- ***l*** show detailed information(long format)
+- ***lh*** same as above, but size in units
+
 ### Manipulation:
 
-***cp*** copy files and directories
+- ***cp*** copy files and directories
 
-***mv*** move files and directories or rename them
+- ***mv*** move files and directories or rename them
 
-***rm*** delete files and directories *permantely and irreversevely*
+- ***rm*** delete files and directories *permantely and irreversevely*
 
-***mkdir*** makes a new directory
+- ***mkdir*** makes a new directory
 
-***Wildcards***
-| Pattern | Matches |
-| ----- | ----- |
-| * | All filenames |
-| g* | All filenames that begin with the character "g" |
-| b*.txt | All filenames that begin with the character "b" and end with the characters ".txt" |
-| Data??? | Any filename that begins with the characters "Data" followed by exactly 3 more characters |
+- * : All filenames
+- g* : All filenames that begin with the character “gˮ
+- b*.txt : All filenames that begins with the character “bˮ and end with the characters “.txtˮ
+- Data??? : Any filename that begins with the characters “Dataˮ followed by exactly 3 more characters
 
----
-#### WARNING!!
-*Once you delete something with rm, it's gone. Before you use rm with wildcards, construct your command using ls instead.*
-
----
 ### Help command
 
 ***help*** shows information and instructions on how to use other commands
