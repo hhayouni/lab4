@@ -11,7 +11,7 @@ Users run applications and give commands through shell.
 -Relative fast
 -Scripts enable automation and records
 
-###GUI(Graphic User Interface)
+### GUI(Graphic User Interface)
 -Easy to use and Intuitive
 -Relatively slow
 -Manual labors required for repetitive tasks
