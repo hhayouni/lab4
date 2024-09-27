@@ -1,5 +1,4 @@
 ## Lab 4
----
 ### Kernel
 - A *Kernel* is the core of OS that controls and communicates with hardware resource.
 
@@ -7,7 +6,6 @@
 - A ***shell*** is a interface that allows users to communicate with kernel.  
 Users run applications and give commands through shell.
 
----
 ### CLI(Command Line Interface) vs GUI(Graphic User Interface)
 |  | CLI | GUI |
 | ----- | ----- | -----|
